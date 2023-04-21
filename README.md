@@ -17,8 +17,10 @@ I worked on five sections:
   5)Awards
 
 ##### 2) Designing
+![Plan Page 1](https://user-images.githubusercontent.com/129215899/233674107-43e2c356-70c2-4bde-a3fb-799ce55f8acf.jpg)
+![Plan Page 2](https://user-images.githubusercontent.com/129215899/233674154-21bebe85-c913-4a5e-8516-3c3ce31c9be8.jpg)
 
-...
+
 
 I started planning five pages or sections to feature on my page and used the[Bootstrap theme](https://startbootstrap.com/theme/resume/) to create the website. I thought having the navbar on the side was judicious for putting emphasis on the content.
 
